@@ -1,0 +1,2 @@
+# ikedi
+my second repository
